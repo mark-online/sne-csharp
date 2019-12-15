@@ -1,0 +1,6 @@
+src/bin
+src/obj
+test/bin
+test/obj
+example/echo/bin
+example/echo/obj
